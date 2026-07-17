@@ -414,11 +414,10 @@ db.execute("SELECT * FROM users WHERE name=?", (username,))
 
 [Global Settings](https://github.com/vizkov/oss/blob/main/Global%20Settings.md)
 
----
 
 [Usage Guide](https://github.com/vizkov/oss/blob/main/Usage%20Guide.md)
 
----
+
 
 [Framework Coverage & Enforcement](https://github.com/vizkov/oss/blob/main/Framework%20Coverage%20%26%20Enforcement.md)
 
