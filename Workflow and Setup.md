@@ -563,8 +563,6 @@ Never reference your private research repo, PoC, or internal notes in the public
 
 ---
 
-# Building a Track Record
-
 ## Keep a Private Research Log
 
 ```
@@ -576,9 +574,6 @@ Never reference your private research repo, PoC, or internal notes in the public
     /correspondence/
 ```
 
-## Why It Matters
-
-Published CVEs and GitHub Security Advisories are permanent public record. They matter for security job applications, bug bounty reputation, and credibility for future disclosures.
 
 ## The Research Loop
 
