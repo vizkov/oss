@@ -8,7 +8,7 @@
 
 ---
 
-# The Core Extension: Comment Anchors
+# The Core Extension: [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors)
 
 This extension turns code comments into interactive, high-visibility UI elements.
 
