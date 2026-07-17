@@ -9,4 +9,4 @@ A methodology I came up with for doing security research and secure code review.
 
 ---
 
-Note: There is a known bug that renders duplicates in [Comment Anchors plugin](https://github.com/StarlaneStudios/vscode-comment-anchors/issues/139) / [PR](https://github.com/StarlaneStudios/vscode-comment-anchors/pull/243)
+Note: There is a known bug that renders duplicates in [Comment Anchors plugin](https://github.com/StarlaneStudios/vscode-comment-anchors/issues/139) / [PR](https://github.com/StarlaneStudios/vscode-comment-anchors/pull/243) (fix).
