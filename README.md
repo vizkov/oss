@@ -1,4 +1,4 @@
-A methodology I came up with for doing security research and secure code review. It integrates [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) (for visualization/navigation), [VS Code Snippets][https://github.com/vizkov/oss/blob/main/SCR%20Framework.md](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md) (for syntax injection/convenience), and [git](https://github.com/vizkov/oss/blob/main/Workflow%20and%20Setup.md#using-git-during-security-research) to create a structured audit approach.
+A methodology I came up with for doing security research and secure code review. It integrates [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) (for visualization/navigation), [VS Code Snippets](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md) (for syntax injection/convenience), and [git](https://github.com/vizkov/oss/blob/main/Workflow%20and%20Setup.md#using-git-during-security-research) to create a structured audit approach.
 
 ---
 
