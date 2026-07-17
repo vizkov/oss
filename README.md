@@ -4,4 +4,4 @@ Tools used:
 - Comment Anchors plugin
 - git
 
-Note: There is a known bug in [Comment Anchors plugin](https://github.com/StarlaneStudios/vscode-comment-anchors/issues/139) / [PR](https://github.com/StarlaneStudios/vscode-comment-anchors/pull/243)
+Note: There is a known bug which causes rendering issues in [Comment Anchors plugin](https://github.com/StarlaneStudios/vscode-comment-anchors/issues/139) / [PR](https://github.com/StarlaneStudios/vscode-comment-anchors/pull/243)
