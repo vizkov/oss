@@ -24,7 +24,7 @@ Visual render in VS Code:
 
 ---
 
-# Quick Start
+## Quick Start
 
 1. Install Comment Anchors extension.
 2. Append [settings.json](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#comment-anchors-settingsjson) config to User Settings.
