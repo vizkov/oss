@@ -8,3 +8,13 @@ A methodology I came up with for doing security research and secure code review.
 <img width="1012" height="1146" alt="image" src="https://github.com/user-attachments/assets/b193c0a7-31c1-4f5f-8211-830eb3d679b5" />
 
 ---
+
+# Quick Start
+
+1. Install Comment Anchors extension.
+2. Append [settings.json](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#comment-anchors-settingsjson) config to User Settings.
+3. Create a new Code Snippet. 
+4. Copy [code-snippets.json](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#vs-code-user-snippets-code-snippetsjson) config to Code Snippet.
+5. Test: Type `s-src` in any code file `+ Tab`.
+
+---
