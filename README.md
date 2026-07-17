@@ -1,7 +1,7 @@
 A methodology I came up with for doing security research and secure code review. It integrates [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) (for visualization/navigation), [VS Code Snippets](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#vs-code-user-snippets-code-snippetsjson) (for syntax injection/convenience), and [git](https://github.com/vizkov/oss/blob/main/Workflow%20and%20Setup.md#using-git-during-security-research) to create a structured audit approach.
 
 Enables identification and breakdown of: 
-- [Data Flows, execution and branching](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#data-flow-source--sink)
+- [Data Flows](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#data-flow-source--sink)
 - [Business Logic](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#mirroring-logic--logic)
 - [Object states and lifecycle](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#lifecycle-flow--flow)
 - [Architecture](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#parent-section--)
