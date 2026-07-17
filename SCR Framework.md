@@ -421,6 +421,7 @@ db.execute("SELECT * FROM users WHERE name=?", (username,))
 ---
 
 [Framework Coverage & Enforcement](https://github.com/vizkov/oss/blob/main/Framework%20Coverage%20%26%20Enforcement.md)
+
     validator = SCRValidator(sys.argv[1])
     sys.exit(validator.validate())
 ```
