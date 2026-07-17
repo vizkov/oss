@@ -8,5 +8,3 @@ A methodology I came up with for doing security research and secure code review.
 <img width="1012" height="1146" alt="image" src="https://github.com/user-attachments/assets/b193c0a7-31c1-4f5f-8211-830eb3d679b5" />
 
 ---
-
-Note: There is a known bug that renders duplicates in [Comment Anchors plugin](https://github.com/StarlaneStudios/vscode-comment-anchors/issues/139) / [PR](https://github.com/StarlaneStudios/vscode-comment-anchors/pull/243) (fix).
