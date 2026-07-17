@@ -4,5 +4,5 @@ Tools used:
 - Comment Anchors plugin
 - git
 
-There is a known bug in [Comment Anchors plugin](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors/issues/139). 
+There is a known bug in [Comment Anchors plugin](https://github.com/StarlaneStudios/vscode-comment-anchors/issues/139). 
 [PR](https://github.com/StarlaneStudios/vscode-comment-anchors/pull/243)
