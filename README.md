@@ -5,7 +5,7 @@ Enables identification and breakdown of:
 - [Business Logic](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#mirroring-logic--logic)
 - [Object states and lifecycle](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#lifecycle-flow--flow)
 - [Architecture](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#parent-section--)
-- [Mapping and Categorization (OWSAP/MITRE etc)](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#reference-area--standard)
+- [Mapping and Categorization (OWSAP/MITRE)](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#reference-area--standard)
 - [Exploit Chains](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#exploit-chain-bug--multiple-tags)
 - [Remediations](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#remediation-pair-bug--fix-suggestion)
 - [Assumptions and Dependencies](https://github.com/vizkov/oss/blob/main/SCR%20Framework.md#assumption-dependency-cross-file-logic)
