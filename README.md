@@ -16,6 +16,8 @@ Example code and comment syntax:
 
 <img width="1092" height="346" alt="image" src="https://github.com/user-attachments/assets/a9e11e04-c9a0-4b53-b0f7-e419b8c6fff1" />
 
+---
+
 Visual render in VS Code:
 
 <img width="1012" height="1146" alt="image" src="https://github.com/user-attachments/assets/b193c0a7-31c1-4f5f-8211-830eb3d679b5" />
