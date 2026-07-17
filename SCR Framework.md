@@ -1,5 +1,3 @@
-This system integrates **Comment Anchors** (for visualization/navigation) and **VS Code Snippets** (for automation) to create a structured, professional auditing environment.
-
 # Quick Start
 
 1. Install Comment Anchors extension.
